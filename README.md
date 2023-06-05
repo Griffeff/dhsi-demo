@@ -1,4 +1,6 @@
-# CollectionBuilder-GH
+# DHSI CollectionBuilder Demo 2023
+
+A test run of the Collection Builder Software for DHSI 2023
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
